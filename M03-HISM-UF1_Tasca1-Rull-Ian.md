@@ -30,7 +30,7 @@ Un altre cop al terminal i dins del directori on tinguem descarregat el *docker-
 $ sudo docker-compose up -d
 ```
 Un cop hagi acabat la instal·lació, obrirem un navegador i escriurem a la url *localhost*.
-![La imagen de local host subida a mi drive ](https://drive.google.com/file/d/1U2UGPlK36B0vAWZUzystN3GiFMEJaX0e/view?usp=sharing)
+![La imagen de local host subida a mi drive ](Screenshot_2021-11-08_10-57-27.png)
 
 Se’ns obrirà un moodle. Podem logar-nos fent servir les següents credencials:
 
@@ -56,3 +56,5 @@ on *nom\_del\_contenidor* serà el nom que ens aparegui al fer *sudo docker ps -
 ------------------------------
 
 Font: https://docs.docker.com/compose/install/
+
+Github personal con los deberes: 
