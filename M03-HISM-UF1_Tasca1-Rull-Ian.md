@@ -30,7 +30,7 @@ Un altre cop al terminal i dins del directori on tinguem descarregat el *docker-
 $ sudo docker-compose up -d
 ```
 Un cop hagi acabat la instal·lació, obrirem un navegador i escriurem a la url *localhost*.
-![La imagen de local host subida a mi drive ](Screenshot_2021-11-08_10-57-27.png)
+![La imagen de local host ](Screenshot_2021-11-08_10-57-27.png)
 
 Se’ns obrirà un moodle. Podem logar-nos fent servir les següents credencials:
 
