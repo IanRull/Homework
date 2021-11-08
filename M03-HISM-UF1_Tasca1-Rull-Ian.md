@@ -57,4 +57,8 @@ on *nom\_del\_contenidor* serà el nom que ens aparegui al fer *sudo docker ps -
 
 Font: https://docs.docker.com/compose/install/
 
-Github personal con los deberes: 
+------------------------------
+
+Github personal con los deberes: https://github.com/IanRull/Homework/blob/main/M03-HISM-UF1_Tasca1-Rull-Ian.md
+
+Captura usada en el documento: https://github.com/IanRull/Homework/blob/main/Screenshot_2021-11-08_10-57-27.png
