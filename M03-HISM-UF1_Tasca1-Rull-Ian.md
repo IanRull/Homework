@@ -1,4 +1,5 @@
-INSTAL·LACIÓ DE MOODLE AMB DOCKER-COMPOSE
+
+<h3>INSTAL·LACIÓ DE MOODLE AMB DOCKER-COMPOSE</h3>
 
 **Prerequisit**: Tenir instal·lat Docker.
 
@@ -30,10 +31,11 @@ $ sudo docker-compose up -d
 ```
 Un cop hagi acabat la instal·lació, obrirem un navegador i escriurem a la url *localhost*.
 ![La imagen de local host subida a mi drive ](https://drive.google.com/file/d/1U2UGPlK36B0vAWZUzystN3GiFMEJaX0e/view?usp=sharing)
-Se’ns obrirà un moodle. Podem logar-nos fent servir les següents
-credencials:
+
+Se’ns obrirà un moodle. Podem logar-nos fent servir les següents credencials:
 
 \-usuari: user
+
 \-contrassenya: bitnami
 
 Cada cop que apaguem l’ordinador haurem d’escriure el següent:
